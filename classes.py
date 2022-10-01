@@ -282,7 +282,7 @@ class Student:
     def read(self):
         return (f"{self.name} is reading")
 
-    
+
     
 class pupil(Student):
     def __init__(self,name, age,combination):
